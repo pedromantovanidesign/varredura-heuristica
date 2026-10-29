@@ -35,7 +35,7 @@ LICENSE     MIT
 ## Instalar
 
 ```bash
-git clone https://github.com/SEU-USUARIO/varredura-heuristica.git ~/.claude/skills/varredura-heuristica
+git clone https://github.com/pedromantovanidesign/varredura-heuristica.git ~/.claude/skills/varredura-heuristica
 ```
 
 O Claude Code carrega a skill sozinho quando o assunto aparece, ou com `/varredura-heuristica`.
